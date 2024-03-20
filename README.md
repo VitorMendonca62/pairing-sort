@@ -13,7 +13,7 @@ Vamos seguir esse passo a passo:
 3. Repetimos os passos 1 e 2 até que a lista esteja ordenada.
 
 ### Ilustração:
-![ilustracao](assets/ilustration.png)
+![ilustracao](/assets/ilustration.png)
 
 ### Qual a complexidade?
 Talvez eu mude esse texto mais para frente, por n motivos, mas acredito que:
